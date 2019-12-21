@@ -1,5 +1,5 @@
 {
-    "id": "99b53473c31d23779756aec239d3de14",
+    "id": "2ea05fee840f4065496abb9314526422",
     "name": "Entertainment Express",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "fbecfc2435678175eabc3c570275554a",
+            "id": "9174df7e608b8fd8d92e0287e8e7dda8",
             "name": "Get Viewers by City.",
             "url": "httpsee.iva-api.com\/\/Analytics\/City\/",
             "description": "No required parameters, DateValue defaults to Today..",
@@ -65,11 +65,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "7cec2cccde5d280d9c5312cca4d400e9",
+            "id": "bdc9d5ce2291a9b011ec4f6b225b52f7",
             "name": "Get Viewers by Country.",
             "url": "httpsee.iva-api.com\/\/Analytics\/Country\/",
             "description": "No required parameters, DateValue defaults to Today.",
@@ -124,11 +124,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "a0e7219940d8eaf5816a623a92b8b85c",
+            "id": "9edab865d114a3e26f1d3bde6586f4c5",
             "name": "GetAnalyticEngagementActions",
             "url": "httpsee.iva-api.com\/\/Analytics\/EngagementActions\/",
             "description": "No required parameters, DateValue defaults to Today.",
@@ -183,11 +183,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "ae44c22ad2b020ecdb86ba00cdb67a13",
+            "id": "77c35e60aedc9579e87bb7587f3327dd",
             "name": "Get View count by Frequency.",
             "url": "httpsee.iva-api.com\/\/Analytics\/EngagementTimes\/",
             "description": "No required parameters, DateValue defaults to Today.",
@@ -242,11 +242,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "8286bef1467122efc40f678e301a249c",
+            "id": "f0de67ef6ce628cdcec4136b38450cc6",
             "name": "Get GBUsage by Customer ID.",
             "url": "httpsee.iva-api.com\/\/Analytics\/GBUsage\/",
             "description": "Requires a valid Customer ID.",
@@ -287,11 +287,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "275b87e39969c14b8f7530bf8882e2f8",
+            "id": "c4a474f2c218228fef45ae2d56ad354f",
             "name": "Get Most Active Visitors by IP.",
             "url": "httpsee.iva-api.com\/\/Analytics\/MostActive\/",
             "description": "No required parameters, DateValue defaults to Today.",
@@ -332,11 +332,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "46673f330eb0bffa60d2e05ead91964b",
+            "id": "633195303cb7fc610f7857b052798e99",
             "name": "Get Viewers by Platform Hardware.",
             "url": "httpsee.iva-api.com\/\/Analytics\/PlatformHardware\/",
             "description": "No required parameters, DateValue defaults to Today.",
@@ -391,11 +391,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "66044140a2f05f58b57257db2db12cf5",
+            "id": "7b7a781e01abf8d5e3e40826ef928287",
             "name": "Get Viewers by Platform OS.",
             "url": "httpsee.iva-api.com\/\/Analytics\/PlatformOS\/",
             "description": "No required parameters, DateValue defaults to Today.",
@@ -450,11 +450,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "85aac2487744ccd3496f3d1ccd6aeb3e",
+            "id": "19c7f984b8dd2e91024c1cf48435a07b",
             "name": "Get Most Recent Visitors by Time.",
             "url": "httpsee.iva-api.com\/\/Analytics\/RecentVisitors\/",
             "description": "No required parameters, DateValue defaults to Today.",
@@ -488,11 +488,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "03efb4411a12fcc3243ee2e361494b27",
+            "id": "d7a850ef5111e95185d2b00fb0dc6b13",
             "name": "Get Summary by Customer ID.",
             "url": "httpsee.iva-api.com\/\/Analytics\/Summary\/",
             "description": "Requires a valid Customer ID.",
@@ -526,11 +526,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "83166935fd427ecced29b37663010174",
+            "id": "5a2d01941a8d300490bd9650cae317b0",
             "name": "Get Title Report by PublishedID.",
             "url": "httpsee.iva-api.com\/\/Analytics\/TitleReport\/",
             "description": "Requires a valid published ID.",
@@ -571,11 +571,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "b62a621ddf125448f134dde8b53aa633",
+            "id": "f79e947c41fefd75ed580192fc2a8c18",
             "name": "Get Views by Video.",
             "url": "httpsee.iva-api.com\/\/Analytics\/VideoLog\/",
             "description": "No required parameters, DateValue defaults to Today.",
@@ -630,11 +630,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "3a8a5a669346be8a38337f8692665c71",
+            "id": "883201881903b87299e32554de0f7b6b",
             "name": "Get viewers by Day.",
             "url": "httpsee.iva-api.com\/\/Analytics\/Viewers\/",
             "description": "Optional DateValue for length of report.",
@@ -668,11 +668,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "4e91a99c90caf047873092be706fa6db",
+            "id": "f42b7c1b72c6095b7570aee84416fdb7",
             "name": "Get views by Day.",
             "url": "httpsee.iva-api.com\/\/Analytics\/Views\/",
             "description": "Optional DateValue for length of report.",
@@ -706,11 +706,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "9195c6920966d42a16e335ee3b5a5e22",
+            "id": "b4eece473ee38d0ea306de1367aed20e",
             "name": "Get Viewers by Web Browser.",
             "url": "httpsee.iva-api.com\/\/Analytics\/WebBrowsers\/",
             "description": "No required parameters, DateValue defaults to Today.",
@@ -765,11 +765,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "2f3b895b76973ed0e205c76eb1199b06",
+            "id": "dbf5a995e887588e28080a2994304336",
             "name": "Returns list of unique EpisodeId changes greater than or equal to date (UTC)",
             "url": "httpsee.iva-api.com\/\/Changes\/Episodes\/History\/",
             "description": "For each updated episode ID, pull the full episode data for that ID and update.",
@@ -810,11 +810,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "e7dced916954e8bb76d2337e43e04495",
+            "id": "dc31a2125d11f219ef782a0c547f3398",
             "name": "Returns list of unique EpisodeId and Entity changes greater than or equal to date (UTC).",
             "url": "httpsee.iva-api.com\/\/Changes\/Episodes\/HistoryWithEntity\/",
             "description": "Lists each episode ID that has changed as well as the entity in the object that changed.",
@@ -855,11 +855,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "34c2208645deac66cc1688e4e8065447",
+            "id": "f1c994d830727639b8135957699a2db4",
             "name": "Returns list of unique MovieId changes greater than or equal to date (UTC).",
             "url": "httpsee.iva-api.com\/\/Changes\/Movies\/History\/",
             "description": "Use to get the ID's of the movies that have been added or changed and use \/Movies\/{ID} to get back the object with the updated data and replace in your database.",
@@ -900,11 +900,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "fe6d1ccc2454813f8b948d12640c1095",
+            "id": "71864bb8e6f09f09cf301d2baf41f1b6",
             "name": "\nReturns list of unique MovieId and Entity changes greater than or equal to date (UTC).",
             "url": "httpsee.iva-api.com\/\/Changes\/Movies\/HistoryWithEntity\/",
             "description": "Same as \/Changes\/Movies\/History but with the specific entities that have changed inside the MovieResponse.",
@@ -945,11 +945,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "1780d48e479cd2121f7b25584581f235",
+            "id": "a2db238ca789b58f6d04349494e2a133",
             "name": "Returns list of unique PersonId changes greater than or equal to date (UTC).",
             "url": "httpsee.iva-api.com\/\/Changes\/People\/History\/",
             "description": "Requires a valid Date.",
@@ -990,11 +990,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "2074824c914e9e3e3812b2d304dd9ad9",
+            "id": "1c944f9a5546f07cf7a9801d4439657d",
             "name": "Returns list of unique PersonId and Entity changes greater than or equal to date (UTC).",
             "url": "httpsee.iva-api.com\/\/Changes\/People\/HistoryWithEntity\/",
             "description": "Requires a valid Date.",
@@ -1035,11 +1035,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "9cb93dc1067ec6cb45c8c197e535f6f2",
+            "id": "60174aa6f68a668f1628fe6a95db0a1f",
             "name": "Returns list of unique SeasonId changes greater than or equal to date (UTC).",
             "url": "httpsee.iva-api.com\/\/Changes\/Seasons\/History\/",
             "description": "Use if you want to check for specific updates to season records.",
@@ -1080,11 +1080,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "351400f048251680e66470c9fc4f0575",
+            "id": "f3d3e700f98b21633157d7693173dcda",
             "name": "Returns list of unique SeasonId and Entity changes greater than or equal to date (UTC).",
             "url": "httpsee.iva-api.com\/\/Changes\/Seasons\/HistoryWithEntity\/",
             "description": "Returns list of new or changed SeasonIds with the entity that has changed.",
@@ -1125,11 +1125,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "62a43bce08b283db1d37d38de17bdc2c",
+            "id": "b5a016407dbd624a748e3edaeb3cf11f",
             "name": "Returns list of unique ShowId changes greater than or equal to date (UTC).",
             "url": "httpsee.iva-api.com\/\/Changes\/Shows\/History\/",
             "description": "All new and updated shows from requested date and time.  When a record gets updated, use the ID to get the full show object and replace the data in your cache.",
@@ -1170,11 +1170,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "38cabb256b23d7ffd101e3c1a9f7bab3",
+            "id": "1defc351a209e5f60f15da3c0908d818",
             "name": "Returns list of unique ShowId and Entity changes greater than or equal to date (UTC).",
             "url": "httpsee.iva-api.com\/\/Changes\/Shows\/HistoryWithEntity\/",
             "description": "Returns a list of ShowId and entity of any show that has been updated.",
@@ -1215,11 +1215,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "460e758c5c95721bc5a79eb753def9f7",
+            "id": "2cca8747efd3a9e6a619e994d36ece7e",
             "name": "Returns list of movies based on the weekend box office revenue.",
             "url": "httpsee.iva-api.com\/\/Charts\/Movies\/Boxoffice",
             "description": "Returns top 10 box office movies.",
@@ -1253,11 +1253,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "608855ea8f6fd49be2e7e3619520a4d6",
+            "id": "f70ac73f719aef397b07b8be0b62f1e4",
             "name": "Returns list of Most Anticipated movies based on IVA data.",
             "url": "httpsee.iva-api.com\/\/Charts\/Movies\/MostAnticipated",
             "description": "Requires Skip and Take. Maximum page size is 100.",
@@ -1291,11 +1291,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "1723232da41cd5d643a653a532f5f02f",
+            "id": "298ff429bc34bf7aa1ddf9f0df82d9fc",
             "name": "Returns list of popular movies.",
             "url": "httpsee.iva-api.com\/\/Charts\/Movies\/Popular",
             "description": "Requires Skip and Take. Maximum page size is 100.",
@@ -1329,11 +1329,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "a5c41151d97f73bdfba719695875e253",
+            "id": "eded5bab2046a9284e745cad83d0dad5",
             "name": "Returns list of popular celebrities based on IVA data.",
             "url": "httpsee.iva-api.com\/\/Charts\/People\/Popular",
             "description": "Requires Skip and Take. Maximum page size is 100.",
@@ -1367,11 +1367,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "03ee3c6c3a99f02ecdd809e4f8bb81d1",
+            "id": "efc6345e501c40ea0fc4f2d545a23f59",
             "name": "Returns a list of shows based on popularity.",
             "url": "httpsee.iva-api.com\/\/Charts\/Shows\/Popular",
             "description": "Requires Skip and Take. Maximum page size is 100.",
@@ -1405,11 +1405,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "79547f8a4be89b0a81d1276c2ef26140",
+            "id": "82194dd51dab4d92f8e8337d38c704af",
             "name": "Paged list of companies.",
             "url": "httpsee.iva-api.com\/\/Common\/Companies\/",
             "description": "Companies are listed in a movie, show, or game response as those whom are involved with the program.  EX: Universal Pictures.",
@@ -1443,11 +1443,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "989dd634e82da198527047615553edae",
+            "id": "8f7628fde37e90044ad435122257fc66",
             "name": "Returns a list of countries.",
             "url": "httpsee.iva-api.com\/\/Common\/Countries\/",
             "description": "List of Countries, ISO codes and Country IDs used throughout the API.",
@@ -1466,11 +1466,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "a7f96f0b31bb8c59b305e1c84ab6c975",
+            "id": "5fd2feeb2aed8acb3a50f70c227ac162",
             "name": "List of image types contained in the database.",
             "url": "httpsee.iva-api.com\/\/Common\/ImageTypes\/",
             "description": "A list of image types available in the IVA database. **EX: Poster**",
@@ -1489,11 +1489,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "78c6a94e2c3a9e85727ca8bd0ff84c5d",
+            "id": "2ecf3789d39501643a5f485c0f8799ff",
             "name": "Gets all languages.",
             "url": "httpsee.iva-api.com\/\/Common\/Languages\/",
             "description": "Returns a list of languages used in the API as well as the ISO code and language ID.",
@@ -1512,11 +1512,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "42220b36cf7dbb5b4d7aad1a0668d85c",
+            "id": "d4b004f177c0953e4fc581297a8cdb02",
             "name": "Gets all tags.",
             "url": "httpsee.iva-api.com\/\/Common\/Tags\/",
             "description": "Paged list of all tags used in the API.",
@@ -1550,11 +1550,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "2e7abe6eace900eafc355576912eb8ff",
+            "id": "431a04513d2e0dc6f94641a506e23c4e",
             "name": "Gets all VideoTypes.",
             "url": "httpsee.iva-api.com\/\/Common\/VideoTypes\/",
             "description": "Returns a list of the types of videos that can be associated to a title.",
@@ -1573,11 +1573,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "9f6fa76286caba38f531b3f9bfc843ce",
+            "id": "652616f09b476d6f74a220bea8c2f7d8",
             "name": "Returns list of all MovieId, Gracenote Id pairs.",
             "url": "httpsee.iva-api.com\/\/ExternalIds\/GracenoteMovie",
             "description": "Not accessible with a Demo account.  **Special permissions needed** for access to this operation.  Contact [Sales](mailto:sales@internetvideoarchive.com).",
@@ -1611,11 +1611,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "47e7c51e9a7a09c53bf42dea3d87ff51",
+            "id": "a215d678b20f037404c3ad4045a1b0c5",
             "name": "Returns list of all ShowId, Gracenote Id pairs.",
             "url": "httpsee.iva-api.com\/\/ExternalIds\/GracenoteShow",
             "description": "Not accessible with a Demo account. **Special permissions needed** for access to this operation. Contact [Sales](mailto:sales@internetvideoarchive.com).",
@@ -1649,11 +1649,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "e8baf4b3f914ed2e0642ac2e99ccdc72",
+            "id": "d7509fe966c586f483b286d310e0c5d5",
             "name": "Returns list of all MovieId, IMDB Id pairs.",
             "url": "httpsee.iva-api.com\/\/ExternalIds\/ImdbMovie",
             "description": "Ingest this ID map to create connections between the objects in your existing database with an IMDB ID to the IVA Movie objects.",
@@ -1687,11 +1687,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "0a40576d462594bd3fcc5e967c45e7b1",
+            "id": "f96b9ac97ab1762c4d4175764bfe8984",
             "name": "Returns list of all MovieId, Tmdb Id pairs.",
             "url": "httpsee.iva-api.com\/\/ExternalIds\/ImdbShow",
             "description": "ngest this ID map to create connections between the objects in your existing database with an IMDB ID to the IVA Show objects.",
@@ -1725,11 +1725,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "d029e3fe1ee9c56bff64dbf2698463cc",
+            "id": "b372ea129462b12b5e5153e088536a4d",
             "name": "Returns list of all MovieId, Tivo Id pairs.",
             "url": "httpsee.iva-api.com\/\/ExternalIds\/RoviMovie",
             "description": "Not accessible with a Demo account. **Special permissions needed** for access to this operation. Contact [Sales](mailto:sales@internetvideoarchive.com).",
@@ -1763,11 +1763,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "1b05b3866dec318c4ced26759e225104",
+            "id": "fa6cdc5cba093ae1d9af78515dfd8eaf",
             "name": "Returns list of all ShowId, Tivo Id pairs.",
             "url": "httpsee.iva-api.com\/\/ExternalIds\/RoviShow",
             "description": "Not accessible with a Demo account. **Special permissions needed** for access to this operation. Contact [Sales](mailto:sales@internetvideoarchive.com).",
@@ -1801,11 +1801,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "8a4c92935bb204eb144c4c4bb73c4666",
+            "id": "e3261715e51f3cf03ea0b42aaa86bda1",
             "name": "Returns list of all MovieId, Tmdb Id pairs.",
             "url": "httpsee.iva-api.com\/\/ExternalIds\/TmdbMovie",
             "description": "Use to link a TMDB ID to an IVA Movie ID.",
@@ -1839,11 +1839,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "62adce11ee9e851c0aa62de8ed07337d",
+            "id": "376a3cb38f8c54129dd8b3162888cf0c",
             "name": "Returns list of all ShowId, TMDB Id pairs.",
             "url": "httpsee.iva-api.com\/\/ExternalIds\/TmdbShow",
             "description": "Use to link a TMDB ID to an IVA Show ID.",
@@ -1877,11 +1877,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "6752df12678b055046ba6ce9cfba737d",
+            "id": "b3e188703a73fbdb4eb46a86e66f0f21",
             "name": "Returns list of all MovieId, Webedia Id pairs.",
             "url": "httpsee.iva-api.com\/\/ExternalIds\/Webedia",
             "description": "Not accessible with a Demo account. **Special permissions needed** for access to this operation. Contact [Sales](mailto:sales@internetvideoarchive.com).",
@@ -1915,11 +1915,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "2284f47ca52bd5cfde72ce951d60b49e",
+            "id": "6d4b6af4b299fcfdf56459ccb91df3cf",
             "name": "Find a movie using third party ID.",
             "url": "httpsee.iva-api.com\/\/Find\/Movie\/",
             "description": "Use FindMovie with a third party ID like IMDB, TMDB, Gracenote, Tivo, etc. to find the corresponding movie in the IVA database.  For a full list of supported ID types see \/Movies\/AlternateIdTypes. \n\n\n\n`Recommendation: Use with small data sets or for a proof of concept. `",
@@ -1960,11 +1960,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "9cf85865d739420de223c5d18014bb5a",
+            "id": "f643c64c47ed5fe80e86bfe3ce221370",
             "name": "Find a TV show using a third party ID.",
             "url": "httpsee.iva-api.com\/\/Find\/Show\/",
             "description": "Use FindShow with a third party ID like IMDB, TMDB, Gracenote, Tivo, etc. to find the corresponding TV show in the IVA database. For a full list of supported ID types see \/Shows\/AlternateIdTypes. `Recommendation: Use with small data sets or for a proof of concept. `",
@@ -2005,11 +2005,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "41feef748ad640bf53b29237de5322fd",
+            "id": "4a966dcc9d3d62eaf573e048dab11ab1",
             "name": "Get GoWatchIt Episode Availability.",
             "url": "httpsee.iva-api.com\/\/GoWatchIt\/Episodes\/{Id}\/Availabilities",
             "description": "Returns GoWatchit episode availability by Entertainment Episode ID. Special permission is required to access this endpoint. ",
@@ -2043,11 +2043,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "a2f79a49973be63c96d15e281808d787",
+            "id": "c37ed30da03aa6431cf3a4c659a7fef4",
             "name": "Get GoWatchIt Movie Availability.",
             "url": "httpsee.iva-api.com\/\/GoWatchIt\/Movies\/{Id}\/Availabilities",
             "description": "Returns GoWatchIt movie availability by Entertainment Movie ID.  Special permission is required to access this endpoint.  Contact [Sales](mailto:Sales@InternetVideoArchive.com) for more information.",
@@ -2081,11 +2081,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "dcc560298fe2d7b29807bfc496e80c03",
+            "id": "1eed5e197a9280b854c791d584c1ecd5",
             "name": "Get GoWatchIt Season Availability.",
             "url": "httpsee.iva-api.com\/\/GoWatchIt\/Seasons\/{Id}\/Availabilities",
             "description": "Returns GoWatchIt season availability by Entertainment Season ID.  Special permission is required to access this endpoint.  Contact [Sales](mailto:Sales@InternetVideoArchive.com) for more information.",
@@ -2119,11 +2119,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "3f74dcad69f0f6307dc439238d1cab72",
+            "id": "0bcbeabba900ae9d94b961c50d75e88c",
             "name": "Get GoWatchItShow Availability.",
             "url": "httpsee.iva-api.com\/\/GoWatchIt\/Shows\/{Id}\/Availabilities",
             "description": "Returns GoWatchIt show availability by Entertainment Show ID.  Special permission is required to access this endpoint. Please contact [Sales](mailto:Sales@InternetVideoArchive.com) for more information.",
@@ -2157,11 +2157,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "f245f2d727aa61bdfe83d781d1478fc4",
+            "id": "1ec8d9a7498ad234807fa22247a39623",
             "name": "Returns a list of batch image responses links based on filepath.",
             "url": "httpsee.iva-api.com\/\/Images\/Batch",
             "description": "Requires a list filepath.",
@@ -2195,11 +2195,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "8561924af672b9b2183895a9e70a3512",
+            "id": "89417fa82ff20179a49f7e7eab3507b7",
             "name": "Returns a list of screen capture responses.",
             "url": "httpsee.iva-api.com\/\/Images\/ScreenCaptures\/Batch",
             "description": "Requires a list of filepaths.",
@@ -2233,11 +2233,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "994e3379b3ec4972f7992089201bd3a4",
+            "id": "1415b16cc85dd2416b16411a4b1ce840",
             "name": "Redirect to a screen capture based on filepath.",
             "url": "httpsee.iva-api.com\/\/Images\/ScreenCaptures\/Redirect",
             "description": "Requires a valid filepath of a video asset screen capture.  \n\n`Note: The swagger U\/I does not support redirects.`",
@@ -2271,11 +2271,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "7273736758a56a9fe9aa52766881e746",
+            "id": "5faba3aa4fcbdfcde2239a8b62460e40",
             "name": "Redirect to an image based on filepath.",
             "url": "httpsee.iva-api.com\/\/Images\/{FilePath}\/Redirect",
             "description": "Images should be downloaded and stored on the client server. Use \/Common\/ImageTypes to see a list of available image types.  \n\n\n`Note: The swagger U\/I does not support redirects.`",
@@ -2309,11 +2309,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "1d01fb2744f54066dcbb27a499181e2e",
+            "id": "5101df24337851afe10d319af68a36d7",
             "name": "Get Metacritic Movie information.",
             "url": "httpsee.iva-api.com\/\/Metacritic\/Movie\/{Id}",
             "description": "Returns Metacritic Movie information by Entertainment Movie ID.",
@@ -2340,11 +2340,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "8cb58680bd5013a8e8823ab74b750c39",
+            "id": "ac8d3cd5f09444a1ce4a21c75ad4ccf0",
             "name": "Get Metacritic TV information.",
             "url": "httpsee.iva-api.com\/\/Metacritic\/TV\/{Id}",
             "description": "Returns Metacritic TV information by Entertainment Show ID.",
@@ -2378,11 +2378,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "3ae413edb9fd473c8486e09e12f9df01",
+            "id": "c860160de2e84f15a9fda11bfbff82d8",
             "name": "Get MovieTickets Cultures.",
             "url": "httpsee.iva-api.com\/\/MovieTickets\/Cultures",
             "description": "Returns MovieTickets Cultures.",
@@ -2401,11 +2401,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "df20947ec0688673386926178570649e",
+            "id": "84b7a697620ce6087c6c3208d3b9189e",
             "name": "Get MovieTickets Movies releasing soon.",
             "url": "httpsee.iva-api.com\/\/MovieTickets\/Movies\/ComingSoon",
             "description": "Returns MovieTickets Movies releasing soon.",
@@ -2446,11 +2446,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "a37d24643648d8a647471f796dff8239",
+            "id": "dc292ce55d0b6b7056bd9e6da659754b",
             "name": "Get MovieTickets Movies in theaters.",
             "url": "httpsee.iva-api.com\/\/MovieTickets\/Movies\/NowPlaying",
             "description": "Returns MovieTickets Movies currently in theaters.",
@@ -2491,11 +2491,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "b8348ad3995e78f1655c5efbe00b5acb",
+            "id": "68e2e480297403ec1288f0d7c9408b4f",
             "name": "Get MovieTickets Performances.",
             "url": "httpsee.iva-api.com\/\/MovieTickets\/Performances",
             "description": "Returns MovieTickets Performances by MovieTickets Theater ID, Entertainment Movie ID, and ScheduleDate.",
@@ -2543,11 +2543,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "956ea88d5d0522a18b47e8869d1b4553",
+            "id": "197ee6cf91e0b56500e0c2059aa482b8",
             "name": "Get MovieTickets Theaters.",
             "url": "httpsee.iva-api.com\/\/MovieTickets\/Theaters",
             "description": "Returns MovieTickets Theaters by postal code.",
@@ -2616,11 +2616,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "cf6e8dd8ecf1dec2c9f6e2dd4f19c8fb",
+            "id": "2a163025a65dbdb4d477cf7ab02129e4",
             "name": "Returns a paged list of all movies.",
             "url": "httpsee.iva-api.com\/\/Movies\/All",
             "description": "By default the API will only return basic title information. Additional objects can be included by passing the object in the Includes parameter.   \n\n\n`Subscriptions with \"Limited\" data will only be able to include basic title information and Videos.`  \n",
@@ -2661,11 +2661,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "80e226defe1ba7d25253bb951f48db4d",
+            "id": "ac101f596b1bd1f909998d4ff9fc1c77",
             "name": "Returns all MovieAlternateIdTypes.",
             "url": "httpsee.iva-api.com\/\/Movies\/AlternateIdTypes",
             "description": "Movie alternate ID types refer to 3rd party IDs that IVA matches its own movie IDs.  **EX: IMDB, TMDB**.  \n\n`Use to get the Id of the ID type to use with \/Find\/Movie.`",
@@ -2684,11 +2684,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "8f5c30582b065a0ccdb76b1ce7d1aa11",
+            "id": "2a8630b2327cb25e5aab55499823f1eb",
             "name": "Returns list of all Movies coming to US Theaters.",
             "url": "httpsee.iva-api.com\/\/Movies\/ComingSoon\/",
             "description": "Requires Skip and Take. Maximum page size is 10.\n\nBy default the API will only return basic title information.\nAdditional objects can be included by passing the object in the Includes parameter in a comma separated list. ",
@@ -2729,11 +2729,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "9ffda5fa58210421a565dd061593e759",
+            "id": "0e3d1c30320a90c6748889a41e293f01",
             "name": "Returns list of all Movies currently in US Theaters.",
             "url": "httpsee.iva-api.com\/\/Movies\/InTheaters\/",
             "description": "Requires Skip and Take. Maximum page size is 10.\n\nBy default the API will only return basic title information.\nAdditional objects can be included by passing the object in the Includes parameter in a comma separated list. ",
@@ -2774,11 +2774,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "000f760609e43d7d1a6b522eed9f3d40",
+            "id": "6fb6aaf45bd5a42406be84130ef95279",
             "name": "Perform a match to Entertainment using Title, Year, Cast and Director. Returns best match and score for the match.",
             "url": "httpsee.iva-api.com\/\/Movies\/Match\/",
             "description": "Use to match IVA movie data to another data source using title, year, cast etc.",
@@ -2840,11 +2840,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "d777ffe0331940cfbb5a34120ea159a5",
+            "id": "6e126243833f375e0bab84f0c0014edb",
             "name": "Returns all Movie Certifications",
             "url": "httpsee.iva-api.com\/\/Movies\/MovieCertifications",
             "description": "Returns all Movie Certifications used in a movie response with the Releases object.",
@@ -2863,11 +2863,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "b5b15db779756ea5c15b03c1719a43fd",
+            "id": "6ee3b2df49bcc1b14884f8c0db8de170",
             "name": "\nReturns all Movie Genres.",
             "url": "httpsee.iva-api.com\/\/Movies\/MovieGenres",
             "description": "List of all movie genres used in the API.",
@@ -2886,11 +2886,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "464d9a1f0084f14c4fca3f30bf80ef37",
+            "id": "a4e930490ef33890b0f3b4842480c6e5",
             "name": "Returns all Movie ReleaseTypes",
             "url": "httpsee.iva-api.com\/\/Movies\/ReleaseTypes",
             "description": "Release type refers to the release. **EX: Theatrical, Home Video, etc.**",
@@ -2909,11 +2909,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "01a35eb5df9aca3d1bdc0c987fb166fb",
+            "id": "1469780d4c79025b7b359fbcc021c0a3",
             "name": "Search and discover movies.",
             "url": "httpsee.iva-api.com\/\/Movies\/SearchAndDiscover",
             "description": "Searchable Fields:\nTitle, AlternateTitles, Genres, OriginalReleaseDate, UnitedStatesReleaseDate, GermanyReleaseDate, FranceReleaseDate, UnitedKingdomReleaseDate, ItalyReleaseDate, JapanReleaseDate, Tags, Cast, Directors, Descriptions, Ratings, OriginalLanguage.\n[Syntax Ref](https:\/\/docs.microsoft.com\/en-us\/rest\/api\/searchservice\/simple-query-syntax-in-azure-search)\n\nFilterable Fields:\nID, Title, AlternateTitles, Genres, OriginalReleaseDate, UnitedStatesReleaseDate, GermanyReleaseDate, FranceRele",
@@ -2996,11 +2996,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "2c707fc47a2cfa9bee7a3e599ef037f4",
+            "id": "91c94aa1965ef062617efc5aa6481efa",
             "name": "Returns movie data for a specific IVA MovieId.",
             "url": "httpsee.iva-api.com\/\/Movies\/{Id}",
             "description": "By default the API will only return basic title information. Additional objects can be included by passing the object in the Includes parameter.   \n\n\n`Subscriptions with \"Limited\" data will only be able to include basic title information and Videos.`  \n",
@@ -3034,11 +3034,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "6024c8375c7d74c1a95dddfcdde7bfb4",
+            "id": "e73e7313b6967ef30ebf16003e9e8e5f",
             "name": "Gets all People.",
             "url": "httpsee.iva-api.com\/\/People\/All",
             "description": "Returns a AllPeopleResponse object containing a list of all poeple.",
@@ -3079,11 +3079,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "a54b633d0a6c99600ac923fa6c6c6b57",
+            "id": "5942115e65b9663295c0b309a3358fd7",
             "name": "Find Person by Name ordered by rank.",
             "url": "httpsee.iva-api.com\/\/People\/RankedSearch\/",
             "description": "Find person using name ordered by rank.",
@@ -3110,11 +3110,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "3c71a846145e26e43fb4cfb66d81a197",
+            "id": "6feb19c84a629ff781742e9b84791d37",
             "name": "Returns information on a person.",
             "url": "httpsee.iva-api.com\/\/People\/{Id}",
             "description": "BETA - By default the API will only return basic People information. Additional objects can be included by passing the object in the Includes parameter.",
@@ -3148,11 +3148,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "5a235bf44c68dfaf3f1e2041e27ff6ee",
+            "id": "c36cee2041c834879ac312bf8f760fb3",
             "name": "Get a Person's Filmography.",
             "url": "httpsee.iva-api.com\/\/People\/{Id}\/Filmography",
             "description": "Requires a valid Person ID.",
@@ -3179,11 +3179,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "89265699b7252f78ef5862f01d962f37",
+            "id": "bef7ca58b0dda093cc8827906645cd51",
             "name": "Returns a zip file of client SDK.",
             "url": "httpsee.iva-api.com\/\/SDKs\/{Client}",
             "description": "Generate and download SDK's for using the API.  Requires a subscription key for authorization and a valid client.",
@@ -3217,11 +3217,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "b437054ad82e89963f9c0b50e5a849cb",
+            "id": "bd8cddbd3cfca50326ee8c947d0d29fa",
             "name": "Returns a paged list of all TV shows.",
             "url": "httpsee.iva-api.com\/\/Shows\/All",
             "description": "By default the API will only return basic title information. Additional objects can be included by passing the object in the Includes parameter. \n\n\n`Subscriptions with \"Limited\" data will only be able to include basic title information, Videos, EpisodicVideos, and SeasonVideos.`",
@@ -3262,11 +3262,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "751acf1a82189404c665d9e0fb7d7102",
+            "id": "11e17c900d168dc242c8db41a27977f9",
             "name": "Get all AlternateIdTypes.",
             "url": "httpsee.iva-api.com\/\/Shows\/AlternateIdTypes",
             "description": "Alternate Id types refer to the 3rd party ID sets IVA data has matched.  **Ex: IMDB**",
@@ -3285,11 +3285,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "79a34e79a2da92e4f9c71136e9cdd9da",
+            "id": "77d3b142fe7d75d881cc9da3bedb89f3",
             "name": "Perform a match to Entertainment using Title, Year, Cast and Director. Returns best match and score for the match.",
             "url": "httpsee.iva-api.com\/\/Shows\/Match\/",
             "description": "Use to match IVA show data to another data source using title, director, cast, etc.",
@@ -3351,11 +3351,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "af826177ea23f67d1793e6a062b829b6",
+            "id": "4284437d396bfba574bb1e3d54156f4b",
             "name": "Returns a list of Show Release Types.",
             "url": "httpsee.iva-api.com\/\/Shows\/ReleaseTypes",
             "description": "Release types refer to the type of release and are used in the releases object for a show.",
@@ -3374,11 +3374,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "c8c91ebf040397bd01cd7219aa71082b",
+            "id": "252c663e7e8017d9a284ae85664eabf6",
             "name": "Search and discover shows.",
             "url": "httpsee.iva-api.com\/\/Shows\/SearchAndDiscover",
             "description": "Searchable Fields: Title, AlternateTitles, Genres, Tags, Cast, Directors, Descriptions, Ratings, OriginalLanguage. [Syntax Ref](https:\/\/docs.microsoft.com\/en-us\/rest\/api\/searchservice\/simple-query-syntax-in-azure-search)\n\nFilterable Fields: Id, Title, AlternateTitles, Genres, OriginalAirDate, Year, Tags, Cast, Directors, Descriptions, HasVideo, ImageFilePath, Ratings, OriginalLanguage, Created, Modified, NumberOfSeasons, NumberOfEpisodes. [Syntax Ref](https:\/\/docs.microsoft.com\/en-us\/rest\/api\/se",
@@ -3461,11 +3461,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "0b97799d011998226ba1ae3c09a276cf",
+            "id": "9ae737b78beb297fc22883dee6118891",
             "name": "Get Season by ShowId and Season Number.",
             "url": "httpsee.iva-api.com\/\/Shows\/Season\/",
             "description": "Use the IVA ShowId and a season number to get a season details and video asset data.",
@@ -3499,11 +3499,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "178bc651f368416b64ea0b4e0027f8b4",
+            "id": "ad5a3f81e6cdb835b2bcd66090e81b37",
             "name": "Get Episode by ShowId, Season Number and Episode Number.",
             "url": "httpsee.iva-api.com\/\/Shows\/Seasons\/Episode\/",
             "description": "Some use cases find it useful to be able to pass a season number and episode number of a known show to get the data for that exact episode.  ",
@@ -3544,11 +3544,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "ca62eecb019abc35ec24a2caa0e03de1",
+            "id": "0bdde982771d5baab347f94b51536a4d",
             "name": "Returns an Episode object for a requested Episode ID.",
             "url": "httpsee.iva-api.com\/\/Shows\/Seasons\/Episodes\/{Id}",
             "description": "Returns the episode details for a specific episode ID.",
@@ -3582,11 +3582,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "7d80fd484af221d925b70fd1671e4a71",
+            "id": "5bf98f44c4dfc306c121ecb36bd0277b",
             "name": "Get Season by SeasonId.",
             "url": "httpsee.iva-api.com\/\/Shows\/Seasons\/{Id}",
             "description": "Use with a SeasonId to return details for a season including any video asset data.",
@@ -3620,11 +3620,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "13447dbd76bcb9b591f47bfa02f260b5",
+            "id": "7197de34313bf46ccb57fbc7822ad9a9",
             "name": "Returns a list of Show Certifications.",
             "url": "httpsee.iva-api.com\/\/Shows\/ShowCertifications",
             "description": "List of Show Certifications and definitions.",
@@ -3643,11 +3643,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "f14821e1e8c0d660fc94f4101169022a",
+            "id": "75bcfbbcf64f135ea04bc200cf148fe6",
             "name": "Get all Show Genres.",
             "url": "httpsee.iva-api.com\/\/Shows\/ShowGenres",
             "description": "Returns a list of all the show genres used in the IVA database.",
@@ -3666,11 +3666,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "d8aca3350125483509286382dc0d38fc",
+            "id": "380bf807aa3557f23f7e07e3cc9428d1",
             "name": "Get Show by Show ID.",
             "url": "httpsee.iva-api.com\/\/Shows\/{Id}",
             "description": "By default the API will only return basic title information. Additional objects can be included by passing the object in the Includes parameter.  \n\n\n`Subscriptions with \"Limited\" data will only be able to include basic title information, Videos, EpisodicVideos, and SeasonVideos.`",
@@ -3704,11 +3704,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "2270ca74e812dd25b14bff2a86658d2c",
+            "id": "c63a840ab007d833942b07b3ae4b9407",
             "name": "Get Season by ShowId and Season Number.",
             "url": "httpsee.iva-api.com\/\/Shows\/{Id}\/Seasons\/{SeasonNumber}",
             "description": "Depreciated. Use GetSeasonBySeasonNumber instead.  Requires a valid ShowId and Season Number.",
@@ -3749,11 +3749,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "7fa1085ec03bf862b7cde3143bbc4783",
+            "id": "d048b0971852fc9edacceec4cd0d994a",
             "name": "Get Episode by ShowId, Season Number and Episode Number.",
             "url": "httpsee.iva-api.com\/\/Shows\/{Id}\/Seasons\/{SeasonNumber}\/Episodes\/{EpisodeNumber}",
             "description": "Requires a valid ShowId, Season Number and Episode Number.",
@@ -3801,11 +3801,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "d267a8e9b8424d92db920c99b97f3b3e",
+            "id": "f76554455ed71f9d2955d17d3baa071d",
             "name": "Returns translated time from IVA or an error if invalid.",
             "url": "httpsee.iva-api.com\/\/Tests\/TestDateTime\/",
             "description": "Entertainment Express APIs use date time format ISO 8601.  Use this API to test your date time format to see if it translates to a valid time on our server.",
@@ -3832,11 +3832,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "9de90b10e268062288279b6d45072eec",
+            "id": "e73aae4b997485a193a8aef352907290",
             "name": "Returns list of all US Theatrical Movie objects.",
             "url": "httpsee.iva-api.com\/\/TheatricalMovies\/",
             "description": "Deprecated. Use \/Movies\/InTheaters or \/Movies\/ComingSoon instead. Returns all movies with a US Theatrical Release Date > today - 60 days.  Use the includes parameter to include additional objects related to the movie.  The includes parameter takes a comma separated list of objects.  **EX: Genres,Descriptions,Videos**    \n\n\n\n",
@@ -3877,11 +3877,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "154dbf9f51987b008a2ad613bfc66df7",
+            "id": "60318929695641066cffebe4e061de7b",
             "name": "",
             "url": "httpsee.iva-api.com\/\/TvMedia\/genres\/movies",
             "description": "Gets list of movie genres.",
@@ -3908,11 +3908,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "e759c92055ef8e1d8c9bb56415ad5251",
+            "id": "e7b0d8c6d184f4c9ed67e29bd147aa33",
             "name": "",
             "url": "httpsee.iva-api.com\/\/TvMedia\/genres\/shows",
             "description": "Gets list of show genres.",
@@ -3939,11 +3939,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "9c380b4921d310846e79f04d0edf37ff",
+            "id": "6fd16ca18d0afcb0a7f3d003d8b5c424",
             "name": "",
             "url": "httpsee.iva-api.com\/\/TvMedia\/genres\/sports",
             "description": "Gets list of sports genres.",
@@ -3970,11 +3970,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "f05c6dee235ed5784c00d228b88dc2cf",
+            "id": "27ddea563d4a3a0c082b27a61e81d6a5",
             "name": "",
             "url": "httpsee.iva-api.com\/\/TvMedia\/leagues",
             "description": "Gets list of sports leagues.",
@@ -4001,11 +4001,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "ce9248f13e54a46e367cb15d9100cd99",
+            "id": "e21d67b3a32f8db1cfd9c755b1233d57",
             "name": "",
             "url": "httpsee.iva-api.com\/\/TvMedia\/leagues\/{LeagueID}\/listings",
             "description": "Retrieve listings for a given leagueID.",
@@ -4214,11 +4214,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "702d015d85d19e75b50581b38e5f22a3",
+            "id": "ce73e61ce1a17bb14691d21bb27e0713",
             "name": "",
             "url": "httpsee.iva-api.com\/\/TvMedia\/leagues\/{LeagueID}\/teams",
             "description": "Gets list of teams in a league.",
@@ -4252,11 +4252,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "06bc592ae1af77ed378973fc9ffa8f73",
+            "id": "fbf3cfe5b76b0122781fa6d5ff06bb07",
             "name": "",
             "url": "httpsee.iva-api.com\/\/TvMedia\/lineups",
             "description": "Get lineups by postal code.",
@@ -4311,11 +4311,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "ceac8db6bb063234316257b48ef12473",
+            "id": "34d1d58eb42f5fec1d4fb809666de05c",
             "name": "",
             "url": "httpsee.iva-api.com\/\/TvMedia\/lineups\/browse",
             "description": "Starting point for lineup browser, returns available countries.",
@@ -4342,11 +4342,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "45016cf3757bf81d50058226043cc696",
+            "id": "163681c57a150d52a43375742e353c57",
             "name": "",
             "url": "httpsee.iva-api.com\/\/TvMedia\/lineups\/browse\/{CountryID}",
             "description": "Browse regions by country.",
@@ -4380,11 +4380,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "93f446d306031ae0c1f5216d7a511fa3",
+            "id": "9a736dbdd4b161ef8135d672f5505b45",
             "name": "",
             "url": "httpsee.iva-api.com\/\/TvMedia\/lineups\/browse\/{CountryID}\/{RegionID}",
             "description": "Get service areas for a specific country and region.",
@@ -4425,11 +4425,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "648c12490f42afad7569e48b6a95a1e2",
+            "id": "67da88c552d094eb2aaba72d9208b27b",
             "name": "",
             "url": "httpsee.iva-api.com\/\/TvMedia\/lineups\/browse\/{CountryID}\/{RegionID}\/{AreaID}",
             "description": "Get lineups by AreaID.",
@@ -4498,11 +4498,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "66fd819a817af57632c94157d45d5fad",
+            "id": "d49603ec8af3c6f31ba05122e5dcb078",
             "name": "",
             "url": "httpsee.iva-api.com\/\/TvMedia\/lineups\/geo",
             "description": "Get lineups by latitude and longitude.",
@@ -4564,11 +4564,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "069c5b9f540d91547597be9e4b579e88",
+            "id": "e2c18c6a5050bec741de87716546188d",
             "name": "",
             "url": "httpsee.iva-api.com\/\/TvMedia\/lineups\/{LineupID}",
             "description": "Get lineups by specific LineupID.",
@@ -4609,11 +4609,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "1b7e0c6b6024169d1ea21bceb78b0d00",
+            "id": "300fd75e7b385c9da836f140f9016976",
             "name": "",
             "url": "httpsee.iva-api.com\/\/TvMedia\/lineups\/{LineupID}\/listings",
             "description": "Retrieve individual listings for a given lineup ordered by start time (listDateTime) and channel number; unless using the search parameter, in which case they will be ordered by search term relevance.",
@@ -4815,11 +4815,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "68c6f08c6f7ae97c47cf4ff778e7a7da",
+            "id": "16119d752c837b2cf4949bcd004c51e7",
             "name": "",
             "url": "httpsee.iva-api.com\/\/TvMedia\/lineups\/{LineupID}\/listings\/grid",
             "description": "A collection of listings grouped by channel and ordered by listDateTime. The grid dimensions ( time x channels ) can be modified by using the start, end, startchan and maxchan parameters. Channels without any listings will be returned with an empty listings collection.",
@@ -5021,11 +5021,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "4c26ec692738c4c8634b183edb8166f1",
+            "id": "736c5666c6a39b1b7cceb2dc2fe96e3e",
             "name": "",
             "url": "httpsee.iva-api.com\/\/TvMedia\/lineups\/{LineupID}\/listings\/highlights",
             "description": "Retrieves featured listings. setting a start and\/or end time for every request is a highly recommended.",
@@ -5227,11 +5227,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "ccc59b92cf8f0d83058d2cac05cdc8db",
+            "id": "b27bb2551399db7c290a1969d1152d9b",
             "name": "",
             "url": "httpsee.iva-api.com\/\/TvMedia\/reference\/lineups",
             "description": "Get list of generic lineup IDs that can be used.  A 'generic' lineup is not a real lineup, but a collection of stations defined by TV Media.  Any listing retrieved using a generic lineup will not return any channel number information, as it is irrelevant.",
@@ -5265,11 +5265,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "9237aee669f88352f5030b679e08945c",
+            "id": "5079c8f5cc4a1780d615c8d2f9184e39",
             "name": "",
             "url": "httpsee.iva-api.com\/\/TvMedia\/stations\/{StationID}",
             "description": "Gets station details by ID.",
@@ -5303,11 +5303,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "67fa16f1c6ce9ed1e989400ddbbc28fd",
+            "id": "fcdeeafe74108f794c8ce1a6570ece88",
             "name": "Stations are not tied to lineups, therefore no channel numbers will be present in the response, unlike most other listing operations.",
             "url": "httpsee.iva-api.com\/\/TvMedia\/stations\/{StationID}\/listings",
             "description": "Get listings for a given station.",
@@ -5509,11 +5509,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "87ef4aed5ff16cdd7a27b57cd4dca087",
+            "id": "b6e4272f497ba11698ac145279c65181",
             "name": "",
             "url": "httpsee.iva-api.com\/\/TvMedia\/teams\/{TeamID}",
             "description": "Gets details for a specific team.",
@@ -5547,11 +5547,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "60c2822638156ba134fbda28862c4ec6",
+            "id": "5e7075559a99757c1595c2e50861a3c9",
             "name": "",
             "url": "httpsee.iva-api.com\/\/TvMedia\/teams\/{TeamID}\/listings",
             "description": "Retrieve listings for a given TeamID.",
@@ -5760,11 +5760,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "88db9e8699229dc2d51a45ca173dbd8a",
+            "id": "2342d40b6068056378a2e2d738f6505e",
             "name": "Returns a URL to a requested video.",
             "url": "httpsee.iva-api.com\/\/Videos\/GetVideo\/{Id}",
             "description": "Returns a URL to the requested video. [Video Format Specs](https:\/\/developer.iva-api.com\/docs\/v1\/video-formats)\n\n**Formats:** MP4 = 4, HLS = 11, Dash = 14, HSS = 12, HDS = 13\n\n**MP4 KbRate:** 80, 212, 450, 750, 1500, 2500(HD sources only), 5000 (sources >=  1080p)  \n\n**Adaptive Min\/Max rate:** 212000, 350000, 600000, 1200000, 2000000, 2500000, 3500000  \n\n `URLs requested with a Demo account will always return max 750 kbps video.  Full commercial account required for higher bitrates.`",
@@ -5847,11 +5847,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         },
         {
-            "id": "d233d93c56cbd74f1611cd18c8d2d038",
+            "id": "e7c36edce1e4faede8c44cb663a1b46c",
             "name": "Returns a list of recommendations from XRoadMedia for a movie or show.",
             "url": "httpsee.iva-api.com\/\/XroadMedia\/recommendations",
             "description": "Get recommendations for movie or show.",
@@ -5892,7 +5892,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "99b53473c31d23779756aec239d3de14",
+            "collectionId": "2ea05fee840f4065496abb9314526422",
             "rawModeData": ""
         }
     ]
